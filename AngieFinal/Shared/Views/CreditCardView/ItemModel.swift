@@ -1,0 +1,13 @@
+//
+//  Item.swift
+//
+
+import Foundation
+
+struct ItemModel : Identifiable {
+    let id = UUID()
+    var label:String = ""
+    var assetName:String = ""
+    var systemName:String = ""
+}
+

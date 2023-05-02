@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B92DB822281DBFAF00022E97 /* YourBalanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92DB821281DBFAF00022E97 /* YourBalanceView.swift */; };
+		B92DB824281DE81800022E97 /* FillBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92DB823281DE81800022E97 /* FillBarView.swift */; };
+		B95BFA37281CA9A10060F651 /* Finance_App_Dark_ThemeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B95BFA27281CA99E0060F651 /* Finance_App_Dark_ThemeApp.swift */; };
+		B95BFA3B281CA9A10060F651 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B95BFA29281CA9A10060F651 /* Assets.xcassets */; };
+		B95BFA46281CAA260060F651 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B95BFA45281CAA260060F651 /* AboutView.swift */; };
+		B95BFA49281CACA50060F651 /* ColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B95BFA48281CACA50060F651 /* ColorConstants.swift */; };
+		B9664C8F281D3EA600C8B222 /* CreditCardPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664C8E281D3EA600C8B222 /* CreditCardPageView.swift */; };
+		B9664C93281D3FDC00C8B222 /* CreditCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664C92281D3FDC00C8B222 /* CreditCardView.swift */; };
+		B9664C96281D4A1500C8B222 /* ImageConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664C95281D4A1500C8B222 /* ImageConstants.swift */; };
+		B9664C99281D527B00C8B222 /* TextViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664C98281D527B00C8B222 /* TextViews.swift */; };
+		B9664C9C281D559A00C8B222 /* YourCardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664C9B281D559A00C8B222 /* YourCardsView.swift */; };
+		B9664C9F281D5B5400C8B222 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664C9E281D5B5400C8B222 /* TopView.swift */; };
+		B9664CA5281D67F400C8B222 /* TransactionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9664CA4281D67F400C8B222 /* TransactionView.swift */; };
+		FD975CB329FF71410017BBEA /* AddCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CB229FF71410017BBEA /* AddCardView.swift */; };
+		FD975CB629FF728B0017BBEA /* Document.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CB529FF728B0017BBEA /* Document.swift */; };
+		FD975CB929FF72BA0017BBEA /* AddImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CB829FF72BA0017BBEA /* AddImageView.swift */; };
+		FD975CBC29FF72EC0017BBEA /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CBB29FF72EC0017BBEA /* ItemDetail.swift */; };
+		FD975CBF29FF73040017BBEA /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CBE29FF73040017BBEA /* ItemModel.swift */; };
+		FD975CC229FF732B0017BBEA /* UpdateImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CC129FF732B0017BBEA /* UpdateImageView.swift */; };
+		FD975CC529FF73580017BBEA /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CC429FF73580017BBEA /* ItemRow.swift */; };
+		FD975CCB29FF7ED50017BBEA /* RentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CCA29FF7ED50017BBEA /* RentView.swift */; };
+		FD975CCE29FF82700017BBEA /* OnlineShoppingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CCD29FF82700017BBEA /* OnlineShoppingView.swift */; };
+		FD975CD129FF832B0017BBEA /* BillsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CD029FF832B0017BBEA /* BillsView.swift */; };
+		FD975CD429FF866E0017BBEA /* PrivacyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CD329FF866E0017BBEA /* PrivacyView.swift */; };
+		FD975CD729FF89FC0017BBEA /* AllView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CD629FF89FC0017BBEA /* AllView.swift */; };
+		FD975CDD29FF90AA0017BBEA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD975CDC29FF90AA0017BBEA /* ContentView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B92DB821281DBFAF00022E97 /* YourBalanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourBalanceView.swift; sourceTree = "<group>"; };
+		B92DB823281DE81800022E97 /* FillBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillBarView.swift; sourceTree = "<group>"; };
+		B95BFA27281CA99E0060F651 /* Finance_App_Dark_ThemeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Finance_App_Dark_ThemeApp.swift; sourceTree = "<group>"; };
+		B95BFA29281CA9A10060F651 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B95BFA2E281CA9A10060F651 /* Finance App Dark Theme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Finance App Dark Theme.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B95BFA36281CA9A10060F651 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		B95BFA45281CAA260060F651 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		B95BFA48281CACA50060F651 /* ColorConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorConstants.swift; sourceTree = "<group>"; };
+		B9664C8E281D3EA600C8B222 /* CreditCardPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCardPageView.swift; sourceTree = "<group>"; };
+		B9664C92281D3FDC00C8B222 /* CreditCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCardView.swift; sourceTree = "<group>"; };
+		B9664C95281D4A1500C8B222 /* ImageConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageConstants.swift; sourceTree = "<group>"; };
+		B9664C98281D527B00C8B222 /* TextViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViews.swift; sourceTree = "<group>"; };
+		B9664C9B281D559A00C8B222 /* YourCardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourCardsView.swift; sourceTree = "<group>"; };
+		B9664C9E281D5B5400C8B222 /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
+		B9664CA4281D67F400C8B222 /* TransactionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionView.swift; sourceTree = "<group>"; };
+		FD975CB229FF71410017BBEA /* AddCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCardView.swift; sourceTree = "<group>"; };
+		FD975CB529FF728B0017BBEA /* Document.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Document.swift; sourceTree = "<group>"; };
+		FD975CB829FF72BA0017BBEA /* AddImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddImageView.swift; sourceTree = "<group>"; };
+		FD975CBB29FF72EC0017BBEA /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		FD975CBE29FF73040017BBEA /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		FD975CC129FF732B0017BBEA /* UpdateImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateImageView.swift; sourceTree = "<group>"; };
+		FD975CC429FF73580017BBEA /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		FD975CCA29FF7ED50017BBEA /* RentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RentView.swift; sourceTree = "<group>"; };
+		FD975CCD29FF82700017BBEA /* OnlineShoppingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineShoppingView.swift; sourceTree = "<group>"; };
+		FD975CD029FF832B0017BBEA /* BillsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillsView.swift; sourceTree = "<group>"; };
+		FD975CD329FF866E0017BBEA /* PrivacyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyView.swift; sourceTree = "<group>"; };
+		FD975CD629FF89FC0017BBEA /* AllView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AllView.swift; path = Shared/Views/CreditCardView/AllView.swift; sourceTree = SOURCE_ROOT; };
+		FD975CDC29FF90AA0017BBEA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B95BFA2B281CA9A10060F651 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B92DB820281DBF9900022E97 /* YourBalanceView */ = {
+			isa = PBXGroup;
+			children = (
+				B92DB821281DBFAF00022E97 /* YourBalanceView.swift */,
+				FD975CDC29FF90AA0017BBEA /* ContentView.swift */,
+				B92DB823281DE81800022E97 /* FillBarView.swift */,
+			);
+			path = YourBalanceView;
+			sourceTree = "<group>";
+		};
+		B95BFA21281CA99D0060F651 = {
+			isa = PBXGroup;
+			children = (
+				B95BFA26281CA99E0060F651 /* Shared */,
+				B95BFA35281CA9A10060F651 /* macOS */,
+				B95BFA2F281CA9A10060F651 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B95BFA26281CA99E0060F651 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				B9664C91281D3FBC00C8B222 /* Views */,
+				B95BFA27281CA99E0060F651 /* Finance_App_Dark_ThemeApp.swift */,
+				B95BFA29281CA9A10060F651 /* Assets.xcassets */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		B95BFA2F281CA9A10060F651 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B95BFA2E281CA9A10060F651 /* Finance App Dark Theme.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B95BFA35281CA9A10060F651 /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				B95BFA36281CA9A10060F651 /* macOS.entitlements */,
+			);
+			path = macOS;
+			sourceTree = "<group>";
+		};
+		B9664C91281D3FBC00C8B222 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B92DB820281DBF9900022E97 /* YourBalanceView */,
+				B9664CA2281D672400C8B222 /* CreditCardView */,
+				B9664CA1281D670900C8B222 /* AboutView */,
+				B9664CA3281D674500C8B222 /* Supporting Views */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B9664CA1281D670900C8B222 /* AboutView */ = {
+			isa = PBXGroup;
+			children = (
+				B95BFA45281CAA260060F651 /* AboutView.swift */,
+				FD975CD329FF866E0017BBEA /* PrivacyView.swift */,
+			);
+			path = AboutView;
+			sourceTree = "<group>";
+		};
+		B9664CA2281D672400C8B222 /* CreditCardView */ = {
+			isa = PBXGroup;
+			children = (
+				B9664C8E281D3EA600C8B222 /* CreditCardPageView.swift */,
+				FD975CD629FF89FC0017BBEA /* AllView.swift */,
+				FD975CCA29FF7ED50017BBEA /* RentView.swift */,
+				FD975CCD29FF82700017BBEA /* OnlineShoppingView.swift */,
+				FD975CD029FF832B0017BBEA /* BillsView.swift */,
+				B9664CA4281D67F400C8B222 /* TransactionView.swift */,
+				B9664C9E281D5B5400C8B222 /* TopView.swift */,
+				B9664C9B281D559A00C8B222 /* YourCardsView.swift */,
+				FD975CB229FF71410017BBEA /* AddCardView.swift */,
+				FD975CC129FF732B0017BBEA /* UpdateImageView.swift */,
+				FD975CC429FF73580017BBEA /* ItemRow.swift */,
+				FD975CB829FF72BA0017BBEA /* AddImageView.swift */,
+				FD975CBB29FF72EC0017BBEA /* ItemDetail.swift */,
+				FD975CBE29FF73040017BBEA /* ItemModel.swift */,
+				FD975CB529FF728B0017BBEA /* Document.swift */,
+				B9664C92281D3FDC00C8B222 /* CreditCardView.swift */,
+			);
+			path = CreditCardView;
+			sourceTree = "<group>";
+		};
+		B9664CA3281D674500C8B222 /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				B9664C98281D527B00C8B222 /* TextViews.swift */,
+				B9664C95281D4A1500C8B222 /* ImageConstants.swift */,
+				B95BFA48281CACA50060F651 /* ColorConstants.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B95BFA2D281CA9A10060F651 /* Finance App Dark Theme (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B95BFA3F281CA9A10060F651 /* Build configuration list for PBXNativeTarget "Finance App Dark Theme (iOS)" */;
+			buildPhases = (
+				B95BFA2A281CA9A10060F651 /* Sources */,
+				B95BFA2B281CA9A10060F651 /* Frameworks */,
+				B95BFA2C281CA9A10060F651 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Finance App Dark Theme (iOS)";
+			productName = "Finance App Dark Theme (iOS)";
+			productReference = B95BFA2E281CA9A10060F651 /* Finance App Dark Theme.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B95BFA22281CA99D0060F651 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					B95BFA2D281CA9A10060F651 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = B95BFA25281CA99D0060F651 /* Build configuration list for PBXProject "Finance App Dark Theme" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B95BFA21281CA99D0060F651;
+			productRefGroup = B95BFA2F281CA9A10060F651 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B95BFA2D281CA9A10060F651 /* Finance App Dark Theme (iOS) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B95BFA2C281CA9A10060F651 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B95BFA3B281CA9A10060F651 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B95BFA2A281CA9A10060F651 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD975CBF29FF73040017BBEA /* ItemModel.swift in Sources */,
+				B92DB822281DBFAF00022E97 /* YourBalanceView.swift in Sources */,
+				B9664C96281D4A1500C8B222 /* ImageConstants.swift in Sources */,
+				FD975CCE29FF82700017BBEA /* OnlineShoppingView.swift in Sources */,
+				FD975CC229FF732B0017BBEA /* UpdateImageView.swift in Sources */,
+				B9664C8F281D3EA600C8B222 /* CreditCardPageView.swift in Sources */,
+				FD975CB929FF72BA0017BBEA /* AddImageView.swift in Sources */,
+				B95BFA46281CAA260060F651 /* AboutView.swift in Sources */,
+				B95BFA37281CA9A10060F651 /* Finance_App_Dark_ThemeApp.swift in Sources */,
+				FD975CDD29FF90AA0017BBEA /* ContentView.swift in Sources */,
+				FD975CC529FF73580017BBEA /* ItemRow.swift in Sources */,
+				FD975CCB29FF7ED50017BBEA /* RentView.swift in Sources */,
+				FD975CD429FF866E0017BBEA /* PrivacyView.swift in Sources */,
+				FD975CD129FF832B0017BBEA /* BillsView.swift in Sources */,
+				B92DB824281DE81800022E97 /* FillBarView.swift in Sources */,
+				B9664CA5281D67F400C8B222 /* TransactionView.swift in Sources */,
+				FD975CB329FF71410017BBEA /* AddCardView.swift in Sources */,
+				B9664C99281D527B00C8B222 /* TextViews.swift in Sources */,
+				B9664C9F281D5B5400C8B222 /* TopView.swift in Sources */,
+				B9664C9C281D559A00C8B222 /* YourCardsView.swift in Sources */,
+				B95BFA49281CACA50060F651 /* ColorConstants.swift in Sources */,
+				FD975CD729FF89FC0017BBEA /* AllView.swift in Sources */,
+				FD975CBC29FF72EC0017BBEA /* ItemDetail.swift in Sources */,
+				FD975CB629FF728B0017BBEA /* Document.swift in Sources */,
+				B9664C93281D3FDC00C8B222 /* CreditCardView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		B95BFA3D281CA9A10060F651 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B95BFA3E281CA9A10060F651 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		B95BFA40281CA9A10060F651 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9M57CC2J2X;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = ENTO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.loosto.ento;
+				PRODUCT_NAME = "Finance App Dark Theme";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		B95BFA41281CA9A10060F651 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9M57CC2J2X;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = ENTO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.loosto.ento;
+				PRODUCT_NAME = "Finance App Dark Theme";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B95BFA25281CA99D0060F651 /* Build configuration list for PBXProject "Finance App Dark Theme" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B95BFA3D281CA9A10060F651 /* Debug */,
+				B95BFA3E281CA9A10060F651 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B95BFA3F281CA9A10060F651 /* Build configuration list for PBXNativeTarget "Finance App Dark Theme (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B95BFA40281CA9A10060F651 /* Debug */,
+				B95BFA41281CA9A10060F651 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B95BFA22281CA99D0060F651 /* Project object */;
+}
